@@ -1,0 +1,6 @@
+@VendaIngressos.Api_HostAddress = http://localhost:5118
+
+GET {{VendaIngressos.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
